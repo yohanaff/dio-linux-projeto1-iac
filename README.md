@@ -16,4 +16,6 @@ Neste projeto iremos criar um script onde toda a infraestrutura de usuários, gr
 - Os usuários não poderão ter permissão de leitura, escrita e execução em diretórios de departamentos que eles não pertencem;
 - Subir arquivo de script criado para a sua conta no GitHub.
 
+Fonte: [Digital Innovation One](https://web.dio.me/lab/infraestrutura-como-codigo-script-de-criacao-de-estrutura-de-usuarios-diretorios-e-permissoes/learning/c83c768d-0350-4503-84dc-de52f1e9bd8d)
+
 
